@@ -1,1 +1,28 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+<!---LeetCode Topics End-->
