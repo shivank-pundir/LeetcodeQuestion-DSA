@@ -31,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
 | [0784-letter-case-permutation](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0784-letter-case-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
 <!---LeetCode Topics End-->
