@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0392-is-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
 | [0784-letter-case-permutation](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0784-letter-case-permutation) |
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
 <!---LeetCode Topics End-->
