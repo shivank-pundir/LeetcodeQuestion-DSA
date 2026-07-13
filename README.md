@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
