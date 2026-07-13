@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
@@ -34,10 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0784-letter-case-permutation](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0784-letter-case-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
+## Sorting
+|  |
+| ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/shivank-pundir/LeetcodeQuestion-DSA/tree/master/0522-longest-uncommon-subsequence-ii) |
 <!---LeetCode Topics End-->
